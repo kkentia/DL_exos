@@ -1,0 +1,14 @@
+*.venv
+*.jpg
+*.zip
+series1/kagglecatsanddogs/
+
+# Windows junk
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
