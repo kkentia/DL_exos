@@ -2,3 +2,6 @@
 numpy #for working with arrays and numerical operations
 Pillow #for decoding the images
 matplotlib #for creating visualizations
+tqdm #notebook
+zipfile #unzip files
+gdown

@@ -1,7 +1,15 @@
 *.venv
+*.venv3.11
 *.jpg
 *.zip
 series1/kagglecatsanddogs/
+series2/mnist/
+series3/models
+series3/sample
+series3/teat1
+series3/train
+series3/valid
+*.tar
 
 # Windows junk
 Thumbs.db
